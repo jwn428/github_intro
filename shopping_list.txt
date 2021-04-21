@@ -8,4 +8,7 @@ Carrots
 Cereal
 
 Cucumbers
-Radishes 
+
+Bacon
+Eggs
+Bread
